@@ -1,0 +1,4 @@
+sayingdict
+==========
+
+Sayings dictionary
